@@ -11,7 +11,7 @@ public class MultiplicationTable {
 	
 	void print(int table) {
 		for(int i = 1; i<=10; i++) {
-			System.out.printf("%d * %d = %d",table ,i , table * i).println();
+			System.out.printf("%d * %d = %d",table11 ,i , table * i).println();
 		}
 	}
 	
