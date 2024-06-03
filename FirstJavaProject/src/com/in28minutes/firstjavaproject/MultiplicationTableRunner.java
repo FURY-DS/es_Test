@@ -7,6 +7,7 @@ public class MultiplicationTableRunner {
 		table.print();
 		table.print(6);
 		table.print(6, 11, 20);
+		table.print(6, 11, 20);
 	}
 
 }
